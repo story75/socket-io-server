@@ -1,0 +1,24 @@
+{
+  "name": "socket-io-server",
+  "version": "1.0.0",
+  "description": "Sample socket io express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/story75/socket-io-server.git"
+  },
+  "keywords": [
+    "express",
+    "socket-io",
+    "typescript"
+  ],
+  "author": "Alexander Schmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/story75/socket-io-server/issues"
+  },
+  "homepage": "https://gitlab.com/story75/socket-io-server#README"
+}
